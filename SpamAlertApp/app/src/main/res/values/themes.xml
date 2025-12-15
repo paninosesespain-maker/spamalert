@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Personaliza aquí si quieres colores o estilos -->
+    </style>
+</resources>

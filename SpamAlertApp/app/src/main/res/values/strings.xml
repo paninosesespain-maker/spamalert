@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpamAlertApp</string>
+    <string name="info_text">📞 SpamAlertApp está activa. Detectará llamadas y mostrará notificaciones de spam.</string>
+</resources>

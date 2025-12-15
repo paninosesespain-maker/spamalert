@@ -1,0 +1,2 @@
+rootProject.name = "SpamAlertApp"
+include ':app'
